@@ -1,12 +1,18 @@
 1. Explain Node and V8 in your own words ? 
 // Answer here...
+<!-- v8 is chrome engine which built for javascript ,nodejs uses v8 engine -->
 
 2. Explain steps in REPL(here) and command to start REPL ?
 // Answer here...
+<!-- read eval print loop (repl) after installing node simply type node on terminal we started the repl mode
+in repl we can check 1+1 its simply return 2 -->
 
 3. Run `index.js` in the same directory as script writer using `node FILE_NAME.js` and output result of console here.
+<!-- hello World
+ -->
 
 4. Require fs module and read `theory.md` using fs.readFile method in index.js file.
+
 
 5. Explain Buffer and different methods to create a buffer ?
 
